@@ -15,11 +15,12 @@ pypdf2==3.0.1
 
 My first question for the custom chatbot concerns how you get a remodeling project approved in our building. The chatbot lists the necessary steps
 
-<img width="1377" alt="Screen Shot 2023-12-12 at 6 04 48 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/2b9dfc3e-d2fb-4d9a-8155-79c54b82fc0c">
+<img width="1252" alt="Screen Shot 2023-12-12 at 6 17 51 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/4e5360f0-13b8-4f69-9e30-2525e6dbab11">
 
 My second question asks how residents can secure parking if they have guests over. The chatbot correctly refers us to guest parking passes used in our building
 
-<img width="1469" alt="Screen Shot 2023-12-12 at 6 10 28 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/cf0c3a3b-d15d-431d-a1d7-919e54ba4f25">
+<img width="1258" alt="Screen Shot 2023-12-12 at 6 20 58 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/27646c9a-88d3-4698-a245-ab1cd92b9aa4">
+
 
 My third question asks the chatbot what I should do if I'm expecting a couch to be delivered. The chatbot again correctly lists the rules governing large furniture deliveries.
 
