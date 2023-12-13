@@ -13,3 +13,6 @@ openai==0.28.1
 pypdf2==3.0.1
 ```
 
+My first question for the custom chatbot concerns how you get a remodeling project approved in our building. The chatbot lists the necessary steps
+
+<img width="1377" alt="Screen Shot 2023-12-12 at 6 04 48 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/2b9dfc3e-d2fb-4d9a-8155-79c54b82fc0c">
