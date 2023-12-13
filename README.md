@@ -24,4 +24,4 @@ My second question asks how residents can secure parking if they have guests ove
 
 My third question asks the chatbot what I should do if I'm expecting a couch to be delivered. The chatbot again correctly lists the rules governing large furniture deliveries.
 
-<img width="1373" alt="Screen Shot 2023-12-12 at 6 15 33 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/5f069433-5095-423d-863e-ea95e89ac89f">
+<img width="1260" alt="Screen Shot 2023-12-12 at 6 22 01 PM" src="https://github.com/bpkucsb/custom_chatgpt/assets/13769127/a16369f6-9cfb-4dc6-a36a-eee1d098520d">
